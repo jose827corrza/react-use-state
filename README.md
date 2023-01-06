@@ -1,6 +1,6 @@
-# Deploy site
+# Deploy site 🖥
 
-[React Security Code](https://https://josedev-use-state-with-react.netlify.app/)
+[React Security Code](https://josedev-use-state-with-react.netlify.app/)
 
 ## Available Scripts
 
