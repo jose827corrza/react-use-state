@@ -2,7 +2,7 @@ import { UseState } from './components/UseState'
 // import { ClassState } from './components/ClassState'
 import React from 'react';
 import { UseReducer } from './components/UseReducer';
-import { ClassState } from './components/ClassState';
+// import { ClassState } from './components/ClassState';
 
 function App() {
   return (
